@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 How to turn cosmos sdk in scalability
 Provided lp on ekubo and sithswap today on starknet
+Avnu swap check
