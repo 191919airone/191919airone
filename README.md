@@ -14,3 +14,4 @@ Avnu swap check
 Finir L0
 Sabo Debank , in tt les lucky draw
 check cosmos
+nft dead fr
