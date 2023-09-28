@@ -15,3 +15,4 @@ Finir L0
 Sabo Debank , in tt les lucky draw
 check cosmos
 nft dead fr
+it's long
