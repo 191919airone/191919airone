@@ -18,3 +18,4 @@ nft dead fr
 it's long
 Michelin
 Was bad lol
+10K day one
