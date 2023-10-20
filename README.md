@@ -14,3 +14,4 @@ go back yes
 snapshot vote
 campaign
 letsgo
+pooor
